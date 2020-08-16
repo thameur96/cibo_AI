@@ -10,7 +10,7 @@ let dists=[];
 function setup (){
   createCanvas (300, 300);
 
-  createFood(cirs1,100,0,255,0);//verd
+  createFood(cirs1,100,0,255,0);//verde
   enemy= new Rectangle(150,150,10);
   frameRate(1);
 
