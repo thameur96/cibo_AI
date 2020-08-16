@@ -6,7 +6,7 @@ let dists=[];
 
 
 // Info
-// Setup
+// Setup 123
 function setup (){
   createCanvas (300, 300);
 
